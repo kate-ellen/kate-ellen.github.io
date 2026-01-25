@@ -13,4 +13,4 @@ I’m a geospatial specialist and Python + SQL developer in training, building s
 | Task Manager | Python + SQLite CRUD app | [GitHub](https://github.com/yourusername/task-manager-python) |
 
 ## 📫 Contact Me
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/katie-stenson-32956942/)
+- LinkedIn: [My Profile](https://www.linkedin.com/in/katie-stenson-32956942/)
