@@ -8,6 +8,7 @@ Technical
 - Database design and maintenance
 - Git & GitHub
 - Technical leadership across multi-project environments
+
 Soft
 - Stakeholder communication and workshop facilitation
 - Line management and project leadership
@@ -15,6 +16,7 @@ Soft
 - Proactive problem solving
 - Cross-domain collaboration
 - Commercial acumen
+
 GIS
 - [Geospatial Porfolio](https://62696c51d4db1.site123.me/)
 
