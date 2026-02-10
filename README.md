@@ -11,12 +11,13 @@ I’m a geospatial specialist and Python + SQL developer in training, building s
 ## 📂 Projects
 | Project | Description | Demo |
 |---------|-------------|------|
-| Task Manager | Python + SQLite CRUD app | [GitHub](https://github.com/yourusername/task-manager-python) |
+| x | x | x |
 
 ## 💡 Ideas
 | Project | Description | Tech |
 |---------|-------------|------|
 | Work hours tracker | Auto track actual working hours using Teams status | TBC |
+
 | Instagram Pie Hole | Divert ads and accounts I don't follow into the Pie Hole | TBC |
 | IoT dog | Rig up plastic dog to light up and make differnt noises in different scenarios | TBC |
 
