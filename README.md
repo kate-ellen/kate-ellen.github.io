@@ -7,6 +7,7 @@ Technical
 - Python, SQL
 - Database design and maintenance
 - Git & GitHub
+- Agile (sprint-based) delivery, with Scrum Master and Product Owner responsibilities
 
 Soft
 - Stakeholder communication and workshop facilitation
