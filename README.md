@@ -7,12 +7,12 @@ Technical
 - Python, SQL
 - Database design and maintenance
 - Git & GitHub
-- Technical leadership across multi-project environments
 
 Soft
 - Stakeholder communication and workshop facilitation
 - Line management and project leadership
 - Adaptability and rapid context switching
+- Writing standards, reports, technical documents, user guides
 - Proactive problem solving
 - Cross-domain collaboration
 - Commercial acumen
