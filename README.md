@@ -17,7 +17,7 @@ Soft
 - Cross-domain collaboration
 - Commercial acumen
 
-GIS
+Geospatial
 - [Geospatial Porfolio](https://62696c51d4db1.site123.me/)
 
 ## 📂 Projects
