@@ -18,7 +18,7 @@ Soft
 - Commercial acumen
 
 Geospatial
-- [Geospatial Porfolio](https://62696c51d4db1.site123.me/)
+- [Geospatial Portfolio](https://62696c51d4db1.site123.me/)
 
 ## 📂 Projects
 | Project | Description | Demo |
