@@ -34,6 +34,7 @@ Geospatial
 | Instagram Pie Hole | Divert ads and accounts I don't follow into the Pie Hole | TBC |
 | IoT dog | Rig up plastic dog to light up and make differnt noises in different scenarios | TBC |
 | Garden splash bot | Divert ads and accounts I don't follow into the Pie Hole | TBC |
+| Local monthly playlist generator | Scrape bands from music venue websites and generate monthly playlists | TBC |
 
 ## 📫 Contact Me
 - LinkedIn: [My Profile](https://www.linkedin.com/in/katie-stenson-32956942/)
